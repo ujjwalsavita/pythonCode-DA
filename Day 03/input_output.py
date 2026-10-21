@@ -15,7 +15,9 @@
 #     print(num ** 3,", it is the cube of ",num); 
 
 
+
 age = int(input("enter your age "));
+
 
 if age <= 20:
     print("kush hone vali age");
