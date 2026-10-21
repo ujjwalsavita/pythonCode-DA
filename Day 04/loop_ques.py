@@ -17,7 +17,9 @@
 #         print("so sad, we lost the game");
         
 
+
 if [0876554]:
+    
     print("yes");
 else:
     print("no");    
